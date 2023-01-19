@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.title('Healthy food')
 st.header('Breakfast Menu')
 st.text('Omega 3 & Blueberry Oatmeal')
 st.text('Kale, Spinach & Rocket Smoothie')
